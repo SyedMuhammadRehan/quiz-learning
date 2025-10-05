@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "flutter_quiz_app (web)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome",
+      "args": [
+        "--web-browser-flag",
+        "--disable-web-security"
+      ]
+    },
+    {
+      "name": "flutter_quiz_app ",
+      "request": "launch",
+      "type": "dart",
+    },
+    {
+      "name": "flutter_quiz_app ",
+      "request": "launch",
+      "type": "dart",
+    }
+  ]
+}
